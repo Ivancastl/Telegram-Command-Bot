@@ -15,6 +15,7 @@ Este bot de Telegram permite ejecutar comandos, gestionar archivos y controlar p
 
 - Python
 - python-telegram-bot
+- Windows
 
 ## Instalación
 
@@ -24,16 +25,13 @@ Este bot de Telegram permite ejecutar comandos, gestionar archivos y controlar p
     ```
 
 2. Navega al directorio del proyecto:
-    ```bash
-   cd Telegram-Command-Bot
-    ```
-
+  
 3. Instala las dependencias:
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Configura el token y el usuario autorizado en el código.
+4. Configura el token y el usuario autorizado en el código desde consola
 
 5. Ejecuta el bot:
     ```bash
