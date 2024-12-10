@@ -25,7 +25,7 @@ Este bot de Telegram permite ejecutar comandos, gestionar archivos y controlar p
 
 2. Navega al directorio del proyecto:
     ```bash
-   cd bot_remote
+   cd Telegram-Command-Bot
     ```
 
 3. Instala las dependencias:
@@ -37,7 +37,7 @@ Este bot de Telegram permite ejecutar comandos, gestionar archivos y controlar p
 
 5. Ejecuta el bot:
     ```bash
-    python control.py
+    python remotebot.py
     ```
 
 # Comandos disponibles:
