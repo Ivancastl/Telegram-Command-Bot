@@ -20,7 +20,7 @@ Este bot de Telegram permite ejecutar comandos, gestionar archivos y controlar p
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/Ivancastl/Telegram-Command-Executor-Bot.git
+    git clone https://github.com/Ivancastl/Telegram-Command-Bot
     ```
 
 2. Navega al directorio del proyecto:
